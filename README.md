@@ -26,7 +26,7 @@ A learning approach and resource guide without a lot of padding, just the import
 * Measure What Matters (Doerr)
 * The Art of Learning (Waitzkin)
 * Clean Code
-* Clean Architecture
+* Clean Architecture - https://stackoverflow.com/questions/52352815/clean-architecture-design-pattern?rq=1
 * Domain Driven Design
 
 ## Random Reading (Web)
