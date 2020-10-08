@@ -1,3 +1,11 @@
+## Important Books
+
+## Important Videos
+
+## Important Reading
+* https://docs.microsoft.com/en-us/dotnet/architecture/containerized-lifecycle/
+
+## Concepts
 Container image: A package with all the dependencies and information needed to create a container. An image includes all the dependencies plus deployment and execution configuration to be used by a container runtime. Images are immutable.
 
 Dockerfile: A text file that contains instructions for building a Docker image.
