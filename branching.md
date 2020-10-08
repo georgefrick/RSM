@@ -3,6 +3,7 @@
 ## Important Videos
 
 ## Important Reading
+* https://martinfowler.com/articles/branching-patterns.html
 * https://www.agileconnection.com/article/picking-right-branch-merge-strategy
 
 ## Concepts & Terms
