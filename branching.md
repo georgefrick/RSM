@@ -1,3 +1,11 @@
+## Important Books
+
+## Important Videos
+
+## Important Reading
+* https://www.agileconnection.com/article/picking-right-branch-merge-strategy
+
+## Concepts & Terms
 Trunk-based Development (No Branching)
 Trunk-based development means all developers work on the same branch, and when changes are tested and ready, a developer pushes their code to the central repository. Small organizations or those with strong internal testing practices find this strategy useful because it reduces complexity and encourages the development organization to swarm on the problem.
 
