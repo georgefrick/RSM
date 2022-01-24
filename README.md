@@ -29,6 +29,9 @@ A learning approach and resource guide without a lot of padding, just the import
 * Clean Architecture - https://stackoverflow.com/questions/52352815/clean-architecture-design-pattern?rq=1
 * Domain Driven Design
 
+## Extended Reading List (Books)
+* Head First Design Patterns
+
 ## Random Reading (Web)
 * https://martinfowler.com/articles/is-quality-worth-cost.html
 * [https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/)
@@ -37,6 +40,7 @@ A learning approach and resource guide without a lot of padding, just the import
 * https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf
 
 ## Vendor & Open Source Products List
+This is a list of technologies to read about, use, and incorporate as ideas in your design process.
 * Apache Zookeeper
 * Caddy
 * Camunda (Java Saga controller)
@@ -44,6 +48,7 @@ A learning approach and resource guide without a lot of padding, just the import
 * [Cloudstate](https://cloudstate.io/)
 * Consul
 * [Dapper](https://dapper-tutorial.net/dapper)
+* [Deno](https://deno.land/) - Secure, Typescript compatable modern JS/TS Runtime
 * [Envoy](https://www.envoyproxy.io/)
 * [Etcd](https://etcd.io/)
 * [Falcor](https://auth0.com/blog/getting-started-with-falcor/)
@@ -59,6 +64,7 @@ A learning approach and resource guide without a lot of padding, just the import
 * [Ocelot](https://github.com/ThreeMammals/Ocelot) - C# API Gateway, available as Nuget package
 * [Portainer](https://www.portainer.io/overview/)
 * [Pulsar](https://github.com/apache/pulsar)
+* [Puppeteer](https://developers.google.com/web/tools/puppeteer/) - Node library to control headless chrome
 * [Rancher](https://rancher.com/)
 * [Registrator](http://gliderlabs.github.io/registrator/latest/) - Service Registry Bridge
 * [Skupper](https://skupper.io/) - Multicloud communication for Kubernetes
@@ -76,6 +82,7 @@ A learning approach and resource guide without a lot of padding, just the import
 * CQRS
 * Data Plane VS Control Plane
 * ELK Stack
+* Event Driven Architecture
 * Event Sourcing
 * Feral Concurrency Control
 * Ingress Load Balancing
