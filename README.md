@@ -11,6 +11,8 @@ A learning approach and resource guide without a lot of padding, just the import
 1. GOTO; 2020 The Asynchronous Enterprise • Brendan O'Leary - https://youtu.be/c68K94-hJK8
 1. Martin Fowler - What Does Tech Excellence Look like? - https://youtu.be/Avs70dZ3Vlk
 1. Stop Over-Engineering, Greg Young - https://youtu.be/GRr4xeMn1uU
+2. https://dzone.com/articles/solid-grasp-and-other-basic-principles-of-object-o
+3. https://www.atlassian.com/incident-management/kpis/common-metrics
 
 ## Approach
 1. Increase your vocabulary, and listen more.
