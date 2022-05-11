@@ -98,12 +98,6 @@ This is a list of technologies to read about, use, and incorporate as ideas in y
 * Service Registry - [https://auth0.com/blog/an-introduction-to-microservices-part-3-the-service-registry/](https://auth0.com/blog/an-introduction-to-microservices-part-3-the-service-registry/)
 * Sidecar
 
-## C# Libraries / Ideas
-* [https://www.hangfire.io/](https://www.hangfire.io/)
-
-## Javascript Libraries / Frameworks
-* [https://svelte.dev/](https://svelte.dev/)
-
 ## Patterns
 This section catalogues various patterns; with a current focus on cloud patterns.
 [https://docs.microsoft.com/en-us/azure/architecture/patterns/](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
