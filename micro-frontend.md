@@ -13,6 +13,9 @@ Please note, there are plenty of others, but I tried to list just those that you
  * https://webpack.js.org/concepts/module-federation/ - Module federation in webpack.
  * https://ruslan.rocks/posts/vite-module-federation - Module federation in Vite.
 
+## Guides
+ * https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5/
+
 ## Numbered Sources
 These are the numbered sources located in the slides.
  1. https://developer.okta.com/blog/2022/05/17/angular-microfrontend-auth
