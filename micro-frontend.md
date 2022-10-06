@@ -10,14 +10,21 @@ Please note, there are plenty of others, but I tried to list just those that you
  * https://github.com/smapiot/piral - Compile and Run-time via a framework. Supports SSR.
  * https://github.com/opencomponents/oc - Compile Time, Run Time. Web Components and module to load them.
  * https://www.facebook.com/notes/10158791368532200/ - A Facebook solution.
+ * https://github.com/puzzle-js/puzzle-js
+ * https://github.com/opencomponents/oc - Component based.
 
 ## Tools for being Pragmatic
  * https://nx.dev/ - Towards modular monolith front ends.
  * https://webpack.js.org/concepts/module-federation/ - Module federation in webpack.
  * https://ruslan.rocks/posts/vite-module-federation - Module federation in Vite.
 
-## Guides
+## Guides & Links
  * https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5/
+ * https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513
+ * https://medium.com/frontend-at-scale/frontend-architectural-patterns-backend-for-frontend-29679aba886c
+
+## Other Talks
+ * https://www.youtube.com/watch?v=fT-5RHTtFNg&ab_channel=AWSEvents
 
 ## Numbered Sources
 These are the numbered sources located in the slides.
