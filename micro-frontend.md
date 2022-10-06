@@ -1,5 +1,8 @@
 # Micro Front-ends Links & Resources
 
+## Slides
+ * https://docs.google.com/presentation/d/1h12RNDreu6zbTRb2umZz0phn-vdq1jkiWKEZ_rO4-pg/edit?usp=sharing
+
 ## Frameworks
 Please note, there are plenty of others, but I tried to list just those that you might put in production or learn an important concept from.
  * https://bit.dev - Compile Time, Complete tool-chain.
